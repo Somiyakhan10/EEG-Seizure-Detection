@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+scipy
+PyWavelets
+shap
+joblib
+matplotlib
+seaborn
+streamlit
+plotlypip 
