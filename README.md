@@ -5,23 +5,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
----
-
-## 📖 Table of Contents
-- [Overview](#overview)
-- [Dashboard Overview](#dashboard-overview)
-- [EEG Signal Analysis](#eeg-signal-analysis)
-- [Seizure Prediction](#seizure-prediction)
-- [Explainable AI](#explainable-ai)
-- [Model Performance](#model-performance)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Clinical Applications](#clinical-applications)
-- [License](#license)
-
----
 
 ## 🔬 Overview
 
