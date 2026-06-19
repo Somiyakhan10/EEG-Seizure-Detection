@@ -1,4 +1,4 @@
-# 🧠 NeuroDetect: EEG Seizure Detection Platform
+#  NeuroDetect: EEG Seizure Detection Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red)](https://streamlit.io/)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 
-## 🔬 Overview
+##  Overview
 
 **NeuroDetect** is a computational neuroscience and biomedical engineering platform that applies machine learning to automatically detect epileptic seizures from EEG (electroencephalogram) signals. The system combines advanced signal processing techniques (wavelet transforms, bandpass filtering, power spectral density analysis) with a Gradient Boosting classifier to distinguish between ictal (seizure) and inter-ictal (normal) brain states.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ Dashboard Overview
+##  Dashboard Overview
 
 <div align="center">
   <img width="959" height="437" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/a9ed4acb-5373-4a37-a16c-2bc2ad6b5bb5" />
@@ -34,7 +34,7 @@ The main dashboard provides a comprehensive overview of the platform with:
 
 ---
 
-## 📊 EEG Signal Analysis
+##  EEG Signal Analysis
 
 <div align="center">
   <img width="1912" height="859" alt="EEG Signal Analysis" src="https://github.com/user-attachments/assets/ce296586-8657-4764-8d5f-a93e47eac2e4" />
@@ -65,7 +65,7 @@ The EEG Analysis page provides interactive signal visualization with three tabs:
 
 ---
 
-## 🎯 Seizure Prediction
+##  Seizure Prediction
 
 <div align="center">
   <img width="1907" height="883" alt="Seizure Prediction" src="https://github.com/user-attachments/assets/c2026623-bf97-4f94-a453-613ddb9defe8" />
@@ -90,7 +90,7 @@ The Seizure Prediction page enables real-time diagnostics:
 
 ---
 
-## 🔬 Explainable AI
+##  Explainable AI
 
 <div align="center">
   <img width="1846" height="800" alt="Explainable AI" src="https://github.com/user-attachments/assets/d22880b3-cc8e-4b93-aba6-a5b594c02809" />
@@ -116,7 +116,7 @@ The Explainable AI page provides model interpretability:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 <div align="center">
   <img width="1904" height="872" alt="Model Performance 1" src="https://github.com/user-attachments/assets/74824c77-3e4b-41e5-b408-89efb45523f9" />
@@ -163,7 +163,7 @@ The Model Performance page provides comprehensive evaluation:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Signal Processing
 - Bandpass filtering isolates 5 physiological frequency bands
@@ -183,7 +183,7 @@ The Model Performance page provides comprehensive evaluation:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -198,7 +198,7 @@ The Model Performance page provides comprehensive evaluation:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
