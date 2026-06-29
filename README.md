@@ -31,11 +31,6 @@ This matrix summarizes classification performance by comparing actual and predic
 
 <img width="867" height="589" alt="image" src="https://github.com/user-attachments/assets/64d4551e-1765-4cf4-adca-857dfadf3356" />
 
-### ROC Curve
-
-The ROC curve evaluates the model's ability to distinguish between seizure and non-seizure classes.
-
-<img width="881" height="585" alt="image" src="https://github.com/user-attachments/assets/da6dbc6c-637d-4914-8eaa-422ebe3262e1" />
 
 ### Feature Importance
 
